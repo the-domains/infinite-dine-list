@@ -1,0 +1,28 @@
+name: Infinite Dine List
+favicon: null
+layout_spectrum: 0.7621076814830303
+typography_spectrum: 0.7888610097579658
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.15491699334234
+  lightness: 0.1943268810864538
+  saturation: 0.6444622627459466
+  rhythmicContrast: 0.5763226880226284
+purpose: []

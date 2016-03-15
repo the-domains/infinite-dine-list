@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-15T06:43:57.921Z'
-dateModified: '2016-03-15T06:42:45.270Z'
+datePublished: '2016-03-15T06:51:42.497Z'
+dateModified: '2016-03-15T06:50:53.658Z'
 title: 'Body, Mind, and Spirit'
 author: []
 authors: []
@@ -46,7 +46,7 @@ When we feed the body the right fuel, we move the body the right way. Our missio
 
 > When we feed the body the right fuel, we move the body the right way.
 > 
-> Our mission is to share with our community a journey to optimal health.
+> # Our mission is to share with our community a journey to optimal health.
 
 > Let food be thy medicine, and thy medicine be thy food.
 
@@ -78,8 +78,8 @@ Optimal health is about getting the most out of life, actively working to live t
 * Positive changes in mood
 * Achieve ideal body weight
 
-**So,  
-When will you enjoy the life-changing benefits of healthy eating and healthy living already?**
+## So...  
+When will you enjoy the life-changing benefits of healthy eating and healthy living already?
 
 There are so many people enjoying delicious healthy meals in different restaurants.If you haven't been lately, there are common reasons why. What's yours?
 
@@ -99,10 +99,10 @@ There are so many people enjoying delicious healthy meals in different restauran
 
 **Overwhelmed**: I've done a cleanse and started being healthy, but I don't know where to go from here."
 
-**So,   
-Where can you go to find these restaurants?**
+# So...   
+Where can you go to find these restaurants?
 
-## Let Infinite Dine List satisfy your appetite, and change your life,starting with one informative experience at a time.
+**Let Infinite Dine List satisfy your appetite, and change your life,starting with one informative experience at a time.**
 
 Infinite Dine List is your guide in a quest for optimal health and well-being. We embrace the essential disciplines of holistic health.
 
@@ -119,7 +119,7 @@ So You don't have to:
 * Focus only on healthy eating and living, to reach optimal health
 * Reschedule your day and your life
 
-## To share a message of health, tour by tour. (Expand your consciousness in health.)
+# To share a message of health, tour by tour. (Expand your consciousness in health.)
 
 Infinite Dine List grows with the community.
 
@@ -136,3 +136,16 @@ And each tour, you'll be guided to:
 * More healthy eating
 * More healthy living
 * More healthy being
+
+## So...   
+How do you start your true health, optimal health, journey?
+
+You can now achieve true health sooner than you think, with a few unique experiences,you can learn how to be more healthy, and how to achieve optimal health!Infinite Dine List is your guide to the healthiest years of your life.
+
+Just choose the program you enjoy best!
+
+**Choose your unique experience.**
+
+Whether it's a casual food sample tour, a complete full meal tour, or an informative holistic experience.
+
+**Which would you prefer to experience today?**

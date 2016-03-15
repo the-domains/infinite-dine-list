@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-15T06:51:42.497Z'
-dateModified: '2016-03-15T06:50:53.658Z'
+datePublished: '2016-03-15T08:35:19.143Z'
+dateModified: '2016-03-15T08:35:00.046Z'
 title: 'Body, Mind, and Spirit'
 author: []
+sourcePath: _posts/2016-03-15-body-mind-and-spirit.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-body-mind-and-spirit.md
-published: true
 url: body-mind-and-spirit/index.html
 _type: Article
 
@@ -27,7 +27,7 @@ _type: Article
 # in one destination.
 
 ## Find out how to achieve Optimal Health,  
-with a program designed for today. 
+with a program designed for today. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8985e7e6-4574-4a45-bef9-4088a109d2b8.png)
 
 # Infinite Dine List
 
@@ -51,10 +51,12 @@ When we feed the body the right fuel, we move the body the right way. Our missio
 > Let food be thy medicine, and thy medicine be thy food.
 
 # Life-Changing Benefits
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf3d07fe-1fe5-4cfc-86f4-418b163c39e5.jpg)
 
 Optimal health is about getting the most out of life, actively working to live the best life, and enjoying all that life has to offer.
 
 **What might you get out of this?**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44a90e31-ff03-472f-9064-a6e5435bdd30.png)
 
 ## Less of the Bad
 
@@ -80,6 +82,7 @@ Optimal health is about getting the most out of life, actively working to live t
 
 ## So...  
 When will you enjoy the life-changing benefits of healthy eating and healthy living already?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6dfe59f-7243-43fb-bfb3-8864cd2a2d9d.png)
 
 There are so many people enjoying delicious healthy meals in different restaurants.If you haven't been lately, there are common reasons why. What's yours?
 
@@ -101,6 +104,7 @@ There are so many people enjoying delicious healthy meals in different restauran
 
 # So...   
 Where can you go to find these restaurants?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b967f299-a47a-486e-9ae3-cb0c6b96f83e.png)
 
 **Let Infinite Dine List satisfy your appetite, and change your life,starting with one informative experience at a time.**
 
@@ -120,6 +124,7 @@ So You don't have to:
 * Reschedule your day and your life
 
 # To share a message of health, tour by tour. (Expand your consciousness in health.)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbd3cf16-0b62-46fa-a3cb-b5674152e57d.jpg)
 
 Infinite Dine List grows with the community.
 
@@ -139,6 +144,7 @@ And each tour, you'll be guided to:
 
 ## So...   
 How do you start your true health, optimal health, journey?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8400451a-1ea3-43b9-9f74-39f2890dd1e8.png)
 
 You can now achieve true health sooner than you think, with a few unique experiences,you can learn how to be more healthy, and how to achieve optimal health!Infinite Dine List is your guide to the healthiest years of your life.
 
@@ -149,3 +155,5 @@ Just choose the program you enjoy best!
 Whether it's a casual food sample tour, a complete full meal tour, or an informative holistic experience.
 
 **Which would you prefer to experience today?**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d21fce51-5fc3-4203-a901-67a5bf02000a.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d726960-0f13-43bd-b390-777694ce8e6a.png)

@@ -1,7 +1,7 @@
 name: Infinite Dine List
 favicon: null
-layout_spectrum: 0.7621076814830303
-typography_spectrum: 0.7888610097579658
+layout_spectrum: 1
+typography_spectrum: 0.4991
 cta:
   domain: null
   bucket: null

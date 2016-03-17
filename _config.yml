@@ -1,28 +1,40 @@
-name: Infinite Dine List
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4991
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.008960574
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6444622627459466
+  brandStrength: 0.7956989
+  lightness: 0.5
   brandColors:
     - '#48b548'
     - '#ffffff'
     - '#9eb2a3'
     - '#cadfcb'
     - '#00aa00'
-  brandStrength: 0.15491699334234
-  lightness: 0.5
-  saturation: 0.6444622627459466
   rhythmicContrast: 0.5763226880226284
-purpose: []
+typography_spectrum: 0.4991
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Infinite Dine List
